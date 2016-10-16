@@ -6,6 +6,8 @@ body {
   width: 49%;
   float:left;
   padding-left:5px;
+  padding-top:30px;
+  position:relative;
 }
 #friends {
   height: 500px;
