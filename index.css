@@ -37,8 +37,8 @@ Div ul {
 }
 #gradient {
   background: white;
-  background: linear-gradient(to bottom, white, LightBlue, Grey);
-  height:950px; 
+  background: linear-gradient(to bottom, white, LightBlue, Grey, white 80%);
+  height:1250px; 
 }
 Div ul li {
   list-style:circle;
@@ -66,4 +66,33 @@ div h1 {
   font-family:sans-serif;
   position:relative;
   padding-top:90px;
+  padding-right: 5px;
+}
+#footer2 {
+  float:left;
+  clear:both;
+  Width:100%;
+  display:inline;
+}
+#linksheader {
+  float:left;
+  color:black;
+  display:block;
+  padding-left:20px;
+  font-family:Lobster;
+  
+}
+#links {
+  display:inline;
+  clear:both;
+  float:left;
+}
+#facebook {
+  padding:0px 20px 0px 20px;
+}
+#twitter {
+  padding:0px 20px 0px 20px;
+}
+#linkedin {
+  padding:0px 20px 0px 20px;
 }
