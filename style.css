@@ -1,8 +1,69 @@
-img {
-  width: 200px;
-  }
-  
 body {
-  text-align:center;
-  font-family: "Arial";
+  font-family: "Open Sans", sans-serif;
+}
+#bike {
+  height: 500px;
+  width: 49%;
+  float:left;
+  padding-left:5px;
+}
+#friends {
+  height: 500px;
+  width: 49%;
+  float:right;
+  padding-right:5px;
+}
+#menu {
+  Width:99.25%;
+  background-color: black;
+  margin:auto;
+}
+div table tr td a{
+  Color:white;
+  font-size:20px;
+  padding: 10px 70px 10px 70px;
+  font-family:Bevan;
+}
+#SanLeandro {
+  height:300px;
+  width:49%;
+  float:left;
+  padding-left:5px;
+  padding-top:10px;
+}
+Div ul {
+  display:block;
+  float:left;
+}
+#gradient {
+  background: white;
+  background: linear-gradient(to bottom, white, LightBlue, Grey);
+  height:950px; 
+}
+Div ul li {
+  list-style:circle;
+  font-family:sans-serif;
+  font-size: 20px
+}
+#header {
+  background: -webkit-linear-gradient(black, #525252);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50px;
+}
+div p {
+  font-size:20px;
+  font-family:sans-serif;
+  display:block;
+  padding-left:50%;
+}
+div h1 {
+  text-align: center;
+}
+#footer {
+  Float:right;
+  font-size: 20px;
+  font-family:sans-serif;
+  position:relative;
+  padding-top:90px;
 }
